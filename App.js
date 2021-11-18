@@ -41,7 +41,7 @@ const toggleTrueFalse =() => setToggled(!isToggled);
 <Song name ={'songImages/rhiannon fleetwood mack.jpg'} text ={'rhiannon by Fleetwood Mac'}/>
 </TouchableOpacity>
 <TouchableOpacity onPress ={toggleTrueFalse}>
-<Song name ={'songImages/tiny dancer elton john.jpg'} text ={'Tiny dancer by Elton John'}/>
+<Song name ={'songImages/tiny dancer elton john.jpg'} text ={'Tiny dancer by Elton John my favorite elton John song'}/>
 </TouchableOpacity>
 <TouchableOpacity onPress ={toggleTrueFalse}>
 <Song name ={'songImages/in the dark bring me the horizon.jpg'} text ={'in the dark by Bring me the horizon'}/>
