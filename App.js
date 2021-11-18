@@ -32,7 +32,7 @@ const toggleTrueFalse =() => setToggled(!isToggled);
 
 <View  style={isToggled==true?styles.selectedSong: styles.song}> 
 <TouchableOpacity onPress ={toggleTrueFalse}>
-<Song name ={'songImages/loose yourself Eminem.jpg'} text ={'loose yourself by Eminem'}/>
+<Song name ={'songImages/loose yourself Eminem.jpg'} text ={'loose yourself by Eminem from the film 8 mile'}/>
 </TouchableOpacity>
 <TouchableOpacity onPress ={toggleTrueFalse}>
 <Song name ={'songImages/losing my religion r.e.m.jpg'} text ={'loosing my religion by R.E.M'}/>
